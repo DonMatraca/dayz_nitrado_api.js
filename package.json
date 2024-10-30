@@ -1,0 +1,19 @@
+{
+  "name": "dayz_nitrado_api",
+  "version": "1.0.0",
+  "description": "A DayZ based Nitrado API to help you manage your gameserver.",
+  "main": "src/NitradoApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dayz",
+    "nitrado",
+    "gameserver"
+  ],
+  "author": "DonMatraca",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
